@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\SolidBodyDynamics\SolidBodyDynamics\bin\Debug\SolidBodyDynamics.exe.config
+C:\Users\1\source\repos\SolidBodyDynamics\SolidBodyDynamics\bin\Debug\SolidBodyDynamics.exe
+C:\Users\1\source\repos\SolidBodyDynamics\SolidBodyDynamics\bin\Debug\SolidBodyDynamics.pdb
+C:\Users\1\source\repos\SolidBodyDynamics\SolidBodyDynamics\obj\Debug\SolidBodyDynamics.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\SolidBodyDynamics\SolidBodyDynamics\obj\Debug\SolidBodyDynamics.Form1.resources
+C:\Users\1\source\repos\SolidBodyDynamics\SolidBodyDynamics\obj\Debug\SolidBodyDynamics.Properties.Resources.resources
+C:\Users\1\source\repos\SolidBodyDynamics\SolidBodyDynamics\obj\Debug\SolidBodyDynamics.csproj.GenerateResource.cache
+C:\Users\1\source\repos\SolidBodyDynamics\SolidBodyDynamics\obj\Debug\SolidBodyDynamics.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\SolidBodyDynamics\SolidBodyDynamics\obj\Debug\SolidBodyDynamics.exe
+C:\Users\1\source\repos\SolidBodyDynamics\SolidBodyDynamics\obj\Debug\SolidBodyDynamics.pdb
